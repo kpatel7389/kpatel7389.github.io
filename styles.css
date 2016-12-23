@@ -11,3 +11,12 @@ h2 {
 h3 {
 	color: orange;
 }
+
+#caption {
+	font-size: 10px;
+	text-align: center;
+}
+
+.logo {
+	text-align: center;
+}

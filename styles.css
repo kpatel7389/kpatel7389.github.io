@@ -1,3 +1,37 @@
 body {
-	background-color: blue;
+
+	font-family: Helvetica;
 }
+
+h2 {
+	text-align: center;
+	color: blue;
+	background-image: url(images/background.jpg);	
+}
+
+h3 {
+	color: orange;
+}
+
+#caption {
+	font-size: 10px;
+	text-align: center;
+}
+
+.logo {
+	text-align: center;
+	padding: 10px;
+	margin: 20px;
+}
+
+a:visited {
+	color: yellow;
+}
+
+@media only screen and (orientation: landscape) {
+    body {
+        background-color: white;
+    }
+}
+
+

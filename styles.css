@@ -20,3 +20,7 @@ h3 {
 .logo {
 	text-align: center;
 }
+
+a:visited {
+	color: yellow;
+}

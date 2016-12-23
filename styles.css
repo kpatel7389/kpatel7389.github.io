@@ -28,3 +28,10 @@ a:visited {
 	color: yellow;
 }
 
+@media only screen and (orientation: landscape) {
+    body {
+        background-color: white;
+    }
+}
+
+
